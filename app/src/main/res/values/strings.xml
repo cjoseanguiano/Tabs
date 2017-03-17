@@ -4,4 +4,8 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="one">one</string>
+    <string name="DOx">two</string>
+    <string name="trx">tres</string>
+    <string name="example">http://www.androidhive.info/2015/09/android-material-design-working-with-tabs/
+</string>
 </resources>
